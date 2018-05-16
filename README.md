@@ -3,7 +3,7 @@
 ### Describe
 This project is to detection a point which on a target object and extract the moving track of the point.
 This project is simply used L-K Tracker, SVM and sliding windows. 
-
+![image](C:\Users\陈首臻\Desktop\Works\CV\file\3.png)
 ### How to use 
 1. You need a series of training photos of the object you need to detect. Including some positive photos and negative photos. 
 2. Put them in the root folder of this project.
