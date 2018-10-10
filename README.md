@@ -14,8 +14,4 @@ This project is simply used L-K Tracker, SVM and sliding windows.
 4. Run 'main.py'(before running, you should confirm the video name in the 'main.py' is correct)
 5. Adjust the parameters of LKTrack or SVM or Sliding windows to make the performance better.
 
-### BTW
-The code is not very complete or good(sorry for my bad code), if you have an questions or suggestions, welcome to contact with me.
-Or you can fork it directly.
 
-My E-mail is bluecarvin@163.com
